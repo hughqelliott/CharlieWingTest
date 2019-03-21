@@ -2,7 +2,7 @@
 #include <Adafruit_IS31FL3731.h>
 #include <Adafruit_GFX.h>
 
-Adafruit_IS31FL3731 ledmatrix = Adafruit_IS31FL3731();
+Adafruit_IS31FL3731_Wing ledmatrix = Adafruit_IS31FL3731_Wing();
 
 const int ROWS = 7;
 const int COLS = 15;
